@@ -1,0 +1,15 @@
+# Locked light theme for the demo: reads well on a projector and matches the PDF.
+[theme]
+base = "light"
+primaryColor = "#2f5d8a"
+backgroundColor = "#ffffff"
+secondaryBackgroundColor = "#f3f6f9"
+textColor = "#1f2933"
+font = "sans serif"
+
+[client]
+# Hide the Deploy button and developer menu during the demo.
+toolbarMode = "minimal"
+
+[browser]
+gatherUsageStats = false
